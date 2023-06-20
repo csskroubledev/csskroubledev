@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=Lua&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=white"/>
   
-   <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+   <div style="display: flex;">
     <div style="flex: 33.33%;">
       <img src="https://wakatime.com/share/@52401d66-a497-4262-ae60-c0a683a7dde3/28b3eb65-14e6-4f0e-ab73-9b2f8b6fdd63.svg"/>
     </div>
