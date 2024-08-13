@@ -13,5 +13,5 @@
 
   
   #### Visits
-  <img src="https://profile-counter.glitch.me/csskroubledev/count.svg"/>
+  ![](https://komarev.com/ghpvc/?username=csskroubledev)
 </div>
